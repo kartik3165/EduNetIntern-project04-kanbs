@@ -1,11 +1,10 @@
 
-# Expense Management System using MERN Stack by Kartik Anil Nagare
+# Personal Finance System using MERN Stack by Kartik Anil Nagare
 
 
-**# Expense Management System**  
 
 ## **Project Overview**  
-The Expense Management System is a web-based application designed to help users track and manage their daily expenses efficiently. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), the system ensures scalability, responsiveness, and a seamless user experience.
+The Personal Finance System is a web-based application designed to help users track and manage their daily expenses efficiently. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), the system ensures scalability, responsiveness, and a seamless user experience.
 
 ## **Objectives**  
 1. Simplify expense tracking for individuals and organizations.  
