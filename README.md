@@ -47,14 +47,8 @@ The Personal Finance System is a web-based application designed to help users tr
 ### **Database**  
 - Utilizes MongoDB to store user data, expenses, and categories.  
 - Schema definition and validation implemented with Mongoose ORM.  
-
-### **Deployment**  
-- The frontend is deployed on AWS for scalability and performance.  
-- The backend is hosted on Render for efficient backend management.  
-
+  
 This system ensures a seamless experience in tracking and managing expenses while providing insightful financial analytics.
-
-
 
 ## Run Locally
 
